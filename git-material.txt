@@ -5,3 +5,15 @@ git commit -m "1.txt changes"  - commiting local repository
 git push origin master    - checked in to master
 git pull origin master  - check out local repo.
 
+----------------------
+
+git status
+git log
+git shortlog
+
+if(branchExist)
+git switch branchname
+else
+git switch -C branchName
+
+git diff
