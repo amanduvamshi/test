@@ -1,0 +1,9 @@
+class UserValidations{
+
+
+public void validateUser(User user){
+
+if(user.getName()>10)
+throw new Exception("Usershould contain atleast 10 characters."
+
+}
