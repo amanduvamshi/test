@@ -1,0 +1,7 @@
+git init - intializing repo.
+git remote add origin <<URL>> - config remote repository
+git add . git add 1.txt or git add 1.txt 2.txt - staging area
+git commit -m "1.txt changes"  - commiting local repository
+git push origin master    - checked in to master
+git pull origin master  - check out local repo.
+
